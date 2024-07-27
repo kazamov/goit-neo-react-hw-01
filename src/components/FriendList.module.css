@@ -1,0 +1,9 @@
+.friend-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+
+  .friend-list-item {
+    flex: 1;
+  }
+}
